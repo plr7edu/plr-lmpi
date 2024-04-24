@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=balenaEtcher
+Exec=etcher %U
+Icon=/opt/etcher/icons/etcher
+Categories=Utility;
+X-AppImage-Name=etcher
+X-AppImage-Version=1.19.5
+X-AppImage-Arch=x86_64
+Comment=Flash OS images to SD cards and USB drives, safely and easily.
+Path=
+Terminal=false
+StartupNotify=false

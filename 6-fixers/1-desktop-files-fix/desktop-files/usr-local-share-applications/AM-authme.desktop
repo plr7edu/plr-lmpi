@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Utility;
+Exec=authme
+Icon=/opt/authme/icons/authme
+Name=Authme
+Terminal=false
+Type=Application
+X-AppImage-Version=f12681e
+Comment=Simple cross-platform two-factor (2FA) authenticator app for desktop. 
+Path=
+StartupNotify=false

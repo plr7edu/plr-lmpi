@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Utility;
+Comment=Emoji keyboard
+Exec=emoji-keyboard-appimage
+Icon=/opt/emoji-keyboard-appimage/icons/emoji-keyboard-appimage
+Name=emoji-keyboard-appimage
+Terminal=false
+Type=Application
+X-AppImage-Version=65d075659
+Path=
+StartupNotify=false

@@ -1,0 +1,5 @@
+
+/home/plr/dotfiles-debian/ (Dotfile Location)
+
+stow -nvt ~ *  (Simulation Mode)
+stow -vt ~ *

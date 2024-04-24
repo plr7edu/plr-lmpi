@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Espanso
+Exec=espanso launcher
+Icon=/opt/espanso/icons/espanso
+Type=Application
+Categories=Utility;
+X-AppImage-Version=b421bcf
+Comment=A Privacy-first, Cross-platform Text Expander
+Path=
+Terminal=false
+StartupNotify=false

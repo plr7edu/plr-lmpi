@@ -1,0 +1,23 @@
+#!/bin/bash
+
+config_dir=/etc/lightdm/
+
+tput bold
+echo -e "\e[1;34mRestore Lightdm-Slick-Greeter Configs...\e[1;37m";
+tput sgr0
+
+
+#Copy & replace file
+echo "Copy Need Files..."
+sudo cp -if  Files/* $config_dir
+echo " "
+echo "Done."
+
+
+
+
+
+
+
+
+
